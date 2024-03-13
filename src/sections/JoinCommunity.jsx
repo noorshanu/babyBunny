@@ -62,7 +62,7 @@ function JoinCommunity() {
 
         <div className="flex  items-center justify-center ">
           <p className="text-center text-sm  font-bold text-black">
-            All rights reserved | by BabyPenguin  2023-24
+            All rights reserved | by BugsBuny  2023-24
           </p>
         </div>
       </div>
