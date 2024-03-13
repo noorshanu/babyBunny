@@ -10,34 +10,32 @@ function About() {
             alt=""
             className=" border rounded-xl mx-4 w-auto h-[300px]"
           />
-     
+
           <img
             src="images/img4.jpeg"
             alt=""
             className=" border rounded-xl mx-4 w-auto h-[300px]"
           />
 
-<img
+          <img
             src="images/img2.jpeg"
             alt=""
             className=" border rounded-xl mx-4 w-auto h-[300px]"
           />
         </div>
 
-
-        
-
-
         <div className=" mt-4">
-        <h2 className="text-[#000000] font-bold text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2 text-center  ">About Us</h2>
-          <p className="max-w-5xl  text-[#000000] text-xl py-2"> 
-          It is a community-driven project aimed at bringing warmth and liquidity to Solana. The focus is on spreading joy and positivity through winter-themed memes
+          <h2 className="text-[#000000] font-bold text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2 text-center  ">
+            About Us
+          </h2>
+          <p className="max-w-5xl  text-[#000000] text-xl py-2">
+          BugsBuny munches on carrots and generates profits through staking. But it doesn't stop there. It is also an avid lover of NFTs, offering digital collectibles that celebrate the essence of our quirky coin.
           </p>
 
-          <p className="max-w-5xl  text-[#000000] text-xl py-2 font-bold text-center">What coming next? Unique activities</p>
-          <p className="max-w-5xl  text-[#000000] text-xl py-2">
-          BabyPengiun Symbolizes fun, friendship, and financial opportunity. Users can participate in a range of activities within our vibrant community including trading on exchanges, participating in liquidity pools, or spreading joy and positivity through winter-themed meme
+          <p className="max-w-5xl  text-[#000000] text-xl py-2 font-bold text-center">
+          Join BugsBuny and let the fun begin!
           </p>
+
         </div>
       </div>
     </section>

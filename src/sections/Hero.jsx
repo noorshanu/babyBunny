@@ -14,17 +14,17 @@ function Hero() {
             alt=""
           />
           <div className=" bg-[#00000077] border rounded-2xl p-4    ">
-          <h1 className=" text-[#ffffff] font-bold text-center text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  ">
+          <h1 className=" text-[#ffffff] font-bold text-center text-2xl sm:text-3xl  font-dream uppercase pb-2  ">
             {" "}
-            BugsBunny: Chubby, Funny, and Seafood-Loving 
+            BugsBuny's farm is all about fun and profitable staking experience!
           </h1>
 
           <a
-            href="https://solscan.io/token/Bz5y2yn9zmZjspZUowcEavBULDZbfHvjFhaEWQUf8Krb"
+            href="https://solscan.io/token/HfcnFixKuWakKXuRhhHmS7gshCRYk5ykbiSp3e7k6PCb"
             target="_BLANK"
             className="  text-[#ffffff] font-medium text-base text-center flex justify-center  sm:text-xl my-2"
           >
-            Contract : Bz5y2yn9zmZjspZUowcEavBULDZbfHvjFhaEWQUf8Krb
+            Contract : HfcnFixKuWakKXuRhhHmS7gshCRYk5ykbiSp3e7k6PCb
           </a>
           <div className=" hidden   sm:flex  justify-center items-center gap-6 mt-7 sm:mt-8">
             <div className=" relative">
