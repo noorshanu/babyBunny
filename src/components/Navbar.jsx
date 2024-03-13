@@ -19,10 +19,10 @@ function Navbar() {
           <a href="/" className=" flex  items-center">
             <img
               src="/images/logo.png"
-              className="h-[70px] sm:h-[80px] "
+              className="h-[70px] sm:h-[120px] "
               alt=""
             />
-            <p className=" font-daughter text-xl font-bold text-black">BabyPenguin</p>
+            {/* <p className=" font-daughter text-xl font-bold text-black">BabyPenguin</p> */}
           </a>
 
           <div

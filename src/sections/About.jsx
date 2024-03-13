@@ -2,8 +2,8 @@ import Title from "components/Title";
 
 function About() {
   return (
-    <section className=" relative">
-      <div className="container-wrapper gap-6 flex justify-between items-center flex-col sm:flex-row border rounded-xl border-[#0156ea] shadow-lg bg-[#58535352] py-4 px-2">
+    <section className=" relative mt-5">
+      <div className="container-wrapper gap-6 flex justify-between items-center flex-col sm:flex-row border rounded-xl border-[#fb983b] shadow-lg bg-[#58535352] py-4 px-2">
         <div className="w-full">
           <img src="images/img.jpeg" alt="" className=" border rounded-xl mx-4 w-[80%]" />
         </div>

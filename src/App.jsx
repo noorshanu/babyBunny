@@ -18,7 +18,7 @@ function App() {
             <Navbar />
           </div>
 
-          <div className="  mt-5">
+          <div className="  ">
             <Hero />
           </div>
 
