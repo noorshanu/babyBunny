@@ -32,7 +32,7 @@ function About() {
           BugsBuny munches on carrots and generates profits through staking. But it doesn't stop there. It is also an avid lover of NFTs, offering digital collectibles that celebrate the essence of our quirky coin.
           </p>
 
-          <p className="max-w-5xl  text-[#000000] text-xl py-2 font-bold text-center">
+          <p className="  text-[#000000] text-xl py-2 font-bold text-center">
           Join BugsBuny and let the fun begin!
           </p>
 
