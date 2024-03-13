@@ -30,31 +30,10 @@ function Navbar() {
           
           >
           
-          <div className="flex items-center gap-5 justify-center lg:justify-end">
-             <a href="https://t.me/babypengiun" target="_blank" className=" text-4xl">
-             <FaTelegram />
-             </a>
-         
-
-             <a href="https://twitter.com/babyy_penguin" target="_blank">
-              <img src="X.png" alt="" className="w-auto h-[40px]" />
-             </a>
-            </div>
+   
           </div>
 
-          <div className="items-center justify-evenly text-base font-medium text-black hidden lg:flex">
-    
-            <div className="flex items-center gap-5 justify-center lg:justify-end">
-            <a href="https://t.me/babypandao" target="_blank" className=" text-4xl">
-             <FaTelegram />
-             </a>
-         
-
-             <a href="https://twitter.com/babypandaoff" target="_blank">
-              <img src="X.png" alt="" className="w-auto h-[40px]" />
-             </a>
-            </div>
-          </div>
+   
         </div>
       </nav>
 
