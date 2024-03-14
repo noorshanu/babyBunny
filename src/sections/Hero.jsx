@@ -1,7 +1,7 @@
 import { FaTelegram } from "react-icons/fa";
 function Hero() {
   return (
-    <section className="hero relative z-10 overflow-hidden bg-[#ffffff00] h-auto sm:h-[100vh] ">
+    <section className="hero relative z-10 overflow-hidden bg-[#ffffff00] h-auto sm:h-[100%]  py-4">
       <div className="container-wrapper flex flex-col sm:flex-row  justify-center items-center  lg:drop-shadow-[0_0_10rem_white] mt-4 sm:mt-[2rem] ">
         <div className=" relative z-20 w-full">
           <img
