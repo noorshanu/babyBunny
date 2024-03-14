@@ -29,7 +29,7 @@ function Hero() {
           <div className=" hidden   sm:flex  justify-center items-center gap-6 mt-7 sm:mt-8">
             <div className=" relative">
               <a
-                href="https://raydium.io/"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/CZ1dbsqkFtPUqEgXgbxe53CVoEfgGAGynNVsRfDQTMJq?t=1710426402157"
                 target="_blank"
                 className="  btn-main  font-bold text-sm sm:text-xl rounded-xl px-12 py-2"
               >
