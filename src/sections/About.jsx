@@ -26,7 +26,7 @@ function About() {
 
         <div className=" mt-4">
           <h2 className="text-[#000000] font-bold text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2 text-center  ">
-            About Us
+          About $BUNY
           </h2>
           <p className="max-w-5xl  text-[#000000] text-xl py-2">
           BugsBuny munches on carrots and generates profits through staking. But it doesn't stop there. It is also an avid lover of NFTs, offering digital collectibles that celebrate the essence of our quirky coin.
