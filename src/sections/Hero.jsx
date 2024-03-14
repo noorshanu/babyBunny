@@ -20,11 +20,11 @@ function Hero() {
           </h1>
 
           <a
-            href="https://solscan.io/token/HfcnFixKuWakKXuRhhHmS7gshCRYk5ykbiSp3e7k6PCb"
+            href="https://solscan.io/token/8zCvq9834SXn4PZ1SXegd18piuSJjwcLrEmZTy4bQEuC"
             target="_BLANK"
             className="  text-[#ffffff] font-medium text-base text-center flex justify-center  sm:text-xl my-2"
           >
-            Contract : HfcnFixKuWakKXuRhhHmS7gshCRYk5ykbiSp3e7k6PCb
+            Contract : 8zCvq9834SXn4PZ1SXegd18piuSJjwcLrEmZTy4bQEuC
           </a>
           <div className=" hidden   sm:flex  justify-center items-center gap-6 mt-7 sm:mt-8">
             <div className=" relative">
